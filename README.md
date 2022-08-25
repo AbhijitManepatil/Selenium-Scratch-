@@ -1,4 +1,4 @@
-# Selenium-Scratch-
+# Selenium-Scratch
 Selenium Webdriver with Python from Scratch + Frameworks
 
 #Udemy Course Certification on Selenium Automation Testing.
